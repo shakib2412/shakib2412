@@ -41,34 +41,6 @@ class Shakib:
 
 <br/>
 
-## `> now`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 &nbsp; exploring
-
-- diving deep into **AI & Data Science**
-- messing with **Vision-Language Models**
-- trying to make machines *actually* understand things
-- reading way too many research papers
-
-</td>
-<td width="50%" valign="top">
-
-### 🔧 &nbsp; building
-
-- full-stack apps with **Next.js + TypeScript**
-- ml experiments in **PyTorch**
-- breaking things → fixing things → repeat
-- whatever looks fun at 2am
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ## `> skills --list`
 
