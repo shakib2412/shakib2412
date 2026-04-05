@@ -6,28 +6,29 @@
 
 <br/>
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJ5OWt5Ym9rNm96eXdsMDRhdjV3bXdwZm5jZGY3YjJmZzBrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJ5OWt5Ym9rNm96eXdsMDRhdjV3bXdwZm5jZGY3YjJmZzBrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
-### `> about me`
+### 🧑‍💻 &nbsp; About Me
 
-```
-studied Software Engineering @ Sichuan University
-field: Computer Science
-into: AI, Data Science, Deep Learning
-fuel: coffee ☕ (always)
-status: probably debugging something rn
-```
+🎓 &nbsp; Studied **Software Engineering** at **Sichuan University**
 
-- 🧠 &nbsp; exploring **AI & Data Science**
-- 🔧 &nbsp; building with **Next.js, TypeScript & PyTorch**
-- 📚 &nbsp; learning **Vision-Language Models**
-- 🚀 &nbsp; open to **grad school & collaborations**
+🌏 &nbsp; From **Bangladesh**, currently living in **China**
 
-<br/><br/>
+💡 &nbsp; Passionate about **AI, Data Science & Deep Learning**
+
+🔭 &nbsp; Exploring **Vision-Language Models**
+
+🛠️ &nbsp; Building with **Next.js, TypeScript & PyTorch**
+
+🚀 &nbsp; Open to **grad school & collaborations**
+
+☕ &nbsp; Fueled by **coffee** — non-negotiable
+
+<br/><br/><br/>
 
 ---
 
-### `> skills`
+### 🧰 &nbsp; Languages & Tools
 
 <div align="center">
 
@@ -39,7 +40,7 @@ status: probably debugging something rn
 
 ---
 
-### `> github stats`
+### 📊 &nbsp; GitHub Stats
 
 <div align="center">
 
@@ -55,7 +56,7 @@ status: probably debugging something rn
 
 ---
 
-### `> connect`
+### 🤝 &nbsp; Connect With Me
 
 <div align="center">
 
