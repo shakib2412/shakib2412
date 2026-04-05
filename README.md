@@ -12,6 +12,7 @@
 ---
 
 ## 🧑‍💻 About Me
+```python
 class Shakib:
     def __init__(self):
         self.name        = "Shakib Al Hasan"
@@ -28,8 +29,7 @@ class Shakib:
 
 me = Shakib()
 me.say_hi()
-
----
+```
 
 ## 🏆 GitHub Trophies
 
