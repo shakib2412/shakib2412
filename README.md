@@ -16,16 +16,16 @@
 class Shakib:
     def __init__(self):
         self.name        = "Shakib Al Hasan"
-        self.origin      = "Bangladesh 🇧🇩"
-        self.base        = "Xi'an, China 🇨🇳"
-        self.focus       = ["AI & ML", "Deep Learning", "Full-Stack Dev"]
-        self.currently   = "Exploring Vision-Language Models 🔭"
-        self.looking_for = "MS opportunities in Europe 🎓"
-        self.hobbies     = ["Sports 🏅", "Traveling ✈️", "Music 🎵", "Gaming 🎮"]
-        self.motto       = "Build things. Break things. Learn everything."
+        self.origin      = "Bangladesh 🇧🇩  →  Xi'an, China 🇨🇳"
+        self.currently   = "Figuring out how AI works... one bug at a time 🐛"
+        self.dream       = "Build cool things with AI that actually matter 🌍"
+        self.learning    = ["Machine Learning", "Deep Learning", "Vision-Language Models"]
+        self.hobbies     = ["Sports 🏅", "Traveling ✈️", "Music 🎵", "Breaking things 💥"]
+        self.coffee      = "Yes. Always. Non-negotiable. ☕"
+        self.motto       = "I don't know everything. But I'll figure it out. 🚀"
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something cool together 🚀")
+        print("Hey! Glad you're here. Let's build the future together 🤝")
 
 me = Shakib()
 me.say_hi()
