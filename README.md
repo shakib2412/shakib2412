@@ -1,6 +1,6 @@
 <!-- Header Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Shakib+Al+Hasan+👋;AI+%26+ML+Engineer+🤖;Full-Stack+Developer+💻;Sports+Lover+%7C+Globe+Trotter+✈️;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Shakib+Al+Hasan+%F0%9F%91%8B;AI+%26+ML+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -35,9 +35,8 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shakib2412&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shakib2412&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 </p>
-
 ---
 
 ## 🛠️ Tech Stack
